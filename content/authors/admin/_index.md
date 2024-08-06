@@ -50,6 +50,9 @@ education:
     institution: The University of British Columbia
     date_start: 2022-09-01
     date_end: Ongoing
+
+      Course included:
+      - Stochastic Calculus
    
   - area: MSc Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
