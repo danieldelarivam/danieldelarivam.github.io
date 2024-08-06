@@ -100,7 +100,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-09-01
-    date_end: 2020-04-31
+    date_end: 2022-04-31
     summary: |
       Responsibilities include:
       - Teaching workshop classes for masters students and bachelors students
