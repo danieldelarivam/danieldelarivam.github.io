@@ -43,10 +43,10 @@ interests:
   - Percolation
   - Noise Sensitivity
   - Statistics
-  - Quantitative Finance
+  - Data Science
 
 education:
-  - area: PhD Probability
+  - area: Ph.D. in Probability
     institution: The University of British Columbia
     date_start: 2022-09-01
     date_end: ''
@@ -54,8 +54,21 @@ education:
       
       Course included:
       - Stochastic Calculus
+      - Ising and Potts Models
+  
+  - area: Ph.D. in Mathematical Statistics
+    institution: Stockholm University
+    date_start: 2020-09-01
+    date_end: 2022-04-31
+    summary: |
+      
+      Incomplete
+
+      Course included:
+      - Brownian Motion
+      - Networks and Epidemics
    
-  - area: MSc Mathematics
+  - area: MSc in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     date_start: 2019-01-01
     date_end: 2020-01-31
@@ -71,7 +84,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.maxwell.vrac.puc-rio.br/49615/49615.PDF'
-  - area: BSc Mathematics
+  - area: BSc in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     date_start: 2016-01-01
     date_end: 2018-12-31
@@ -129,15 +142,15 @@ skills:
       - name: Photography
         description: ''
         percent: 100
-        icon: 🎞
+        icon: camera
       - name: Piano
         description: ''
         percent: 100
-        icon: 🎹
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: musical-note
+      - name: Poetry
+        description: pencil-square
+        percent: 100
+        icon: ''
 
 languages:
   - name: English
@@ -158,16 +171,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Prigramming in Python for Data Science
+  - title: Programming in Python for Data Science
     url: 
     date: '2023-04-02'
     awarder: UBC
     icon: 
     summary: |
-      I studied Pandas and Numpy.
+      An introduction to important tools in Data Science such as NumPy and Pandas.
   
 ---
 
 ## About Me
 
-Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Analysis. Hi :)
+Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Analysis.
