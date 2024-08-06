@@ -67,6 +67,7 @@ education:
       Course included:
       - Brownian Motion
       - Networks and Epidemics
+      - Markov chains
    
   - area: MSc in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
@@ -108,16 +109,18 @@ work:
       Responsibilities include:
       - Researching
       - Teaching
+      - Grading
   - position: Teaching and Research Assistant
     company_name: Stockholm University
     company_url: ''
     company_logo: ''
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2022-04-30
     summary: |
       Responsibilities include:
-      - Teaching workshop classes for masters students and bachelors students
-
+      - Researching
+      - Teaching workshop classes for master's students and bachelor's students
+      - Grading bachelor's thesis
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -148,9 +151,9 @@ skills:
         percent: 100
         icon: musical-note
       - name: Poetry
-        description: pencil-square
+        description: Writing and Reading
         percent: 100
-        icon: ''
+        icon: pencil-square
 
 languages:
   - name: English
@@ -160,20 +163,44 @@ languages:
   - name: Spanish
     percent: 70
   - name: French
-    percent: 30
+    percent: 50
   - name: Mandarin
-    percent: 30
+    percent: 40
   - name: Korean
-    perent: 20
+    perent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: IELTS GT
+    url: 
+    date: '2023-08-03'
+    awarder: IELTS
+    icon: 
+    summary: |
+      English Proficiency Exam 8,5/9,0 C2 Level
+  
+  - title: CELPIP General
+    url: 
+    date: '2024-08-03'
+    awarder: CELPIP
+    icon: 
+    summary: |
+      English Proficiency Exam 11/12
+  
+  - title: Mandarin Speaking Contest
+    url: 
+    date: '2024-04-20'
+    awarder: Chinese Bridge
+    icon: 
+    summary: |
+      Certificate of winning 1st place Mandarin Speaking Contest.
+
   - title: Programming in Python for Data Science
     url: 
-    date: '2023-04-02'
+    date: '2024-04-02'
     awarder: UBC
     icon: 
     summary: |
