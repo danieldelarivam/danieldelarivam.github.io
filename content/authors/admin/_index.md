@@ -58,7 +58,7 @@ education:
   - area: MSc Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     date_start: 2019-01-01
-    date_end: 2020-31-01
+    date_end: 2020-01-31
     summary: |
       GPA: 94/100
 
