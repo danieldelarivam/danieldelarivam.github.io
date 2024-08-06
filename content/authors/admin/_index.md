@@ -59,7 +59,7 @@ education:
   - area: Ph.D. in Mathematical Statistics
     institution: Stockholm University
     date_start: 2020-09-01
-    date_end: 2022-04-31
+    date_end: 2022-04-30
     summary: |
       
       Incomplete
