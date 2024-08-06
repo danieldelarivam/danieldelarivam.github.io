@@ -170,4 +170,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Analysis.
+Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Analysis. Hi :)
