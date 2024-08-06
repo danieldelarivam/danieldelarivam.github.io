@@ -3,7 +3,7 @@
 title: Daniel de la Riva Massaad
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Daniel
@@ -100,7 +100,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2020-04-31
     summary: |
       Responsibilities include:
       - Teaching workshop classes for masters students and bachelors students
