@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2022-09-01
     date_end: ''
-    summary: 
+    summary: |
       Responsibilities include:
       - Researching
       - Teaching
