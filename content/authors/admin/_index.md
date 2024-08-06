@@ -53,7 +53,7 @@ education:
     summary: |
       
       Course included:
-      - bla
+      - Stochastic Calculus
    
   - area: MSc Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
