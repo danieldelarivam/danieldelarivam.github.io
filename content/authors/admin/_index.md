@@ -49,7 +49,7 @@ education:
   - area: PhD Probability
     institution: The University of British Columbia
     date_start: 2022-09-01
-    date_end: Ongoing
+    date_end: ''
     summary: |
       
       Course included:
