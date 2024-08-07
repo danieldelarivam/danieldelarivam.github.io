@@ -3,7 +3,7 @@ title: Is being above the median a Noise Sensitive property?
 show_date: false
 share: false
 
-event: CRM-PIMS Summer School in Probability {style="color: red"}
+event: 2022 CRM-PIMS Summer School in Probability
 event_url: https://personal.math.ubc.ca/~angel/ssprob22/
 
 location: Vancouver
