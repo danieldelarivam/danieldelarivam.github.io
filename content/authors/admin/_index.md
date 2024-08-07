@@ -68,7 +68,7 @@ education:
     date_end: 2022-04-30
     summary: |
       
-      # Incomplete: Transferred to UBC
+      ## Transferred to UBC
 
       - Swedish Research Council Grant
 
@@ -83,7 +83,7 @@ education:
     date_end: 2020-01-31
     summary: |
       
-      GPA: 94/100
+      - GPA: 94/100
 
       - Bolsa CAPES
 
@@ -105,7 +105,7 @@ education:
     date_end: 2018-12-31
     summary: |
 
-      Bolsa Arquimedes
+      - Bolsa Arquimedes
       
       Courses included:
       - Real Analysis
@@ -175,6 +175,10 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
+      - name: GitHub
+        description: ''
+        percent: ''
+        icon: github
       - name: C++
         description: ''
         percent: ''
