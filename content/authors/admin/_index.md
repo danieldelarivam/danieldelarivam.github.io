@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: Ph.D. in Probability
-    institution: The University of British Columbia
+    institution: The University of British Columbia (UBC)
     date_start: 2022-09-01
     date_end: ''
     summary: |
@@ -64,7 +64,7 @@ education:
       - Creative Writing
   
   - area: Ph.D. in Mathematical Statistics
-    institution: Stockholm University
+    institution: Stockholm University (SU)
     date_start: 2020-09-01
     date_end: 2022-04-30
     summary: |
@@ -78,7 +78,7 @@ education:
       - Networks and Epidemics
       - Markov chains
    
-  - area: MSc in Mathematics
+  - area: M.Sc. in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     date_start: 2019-01-01
     date_end: 2020-01-31
@@ -100,7 +100,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.maxwell.vrac.puc-rio.br/49615/49615.PDF'
-  - area: BSc in Mathematics
+  - area: B.Sc. in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     date_start: 2016-01-01
     date_end: 2018-12-31
@@ -124,9 +124,10 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Researching
-      - Teaching workshop classes
+      - Researching topics related to Noise Sensitivity, Percolation, and Interactive Particle Systems
+      - Teaching workshop classes 
       - Grading
+      - Organizing seminars and reading groups
   - position: Teaching and Research Assistant
     company_name: Stockholm University
     company_url: ''
@@ -135,53 +136,38 @@ work:
     date_end: 2022-04-30
     summary: |
       Responsibilities include:
-      - Researching
-      - Teaching workshop classes (master's and bachelor's levell)
-      - Grading bachelor's thesis
+      - Researching topics related to Noise Sensitivity and Percolation
+      - Teaching workshop classes (including master's level classes)
+      - Evaluating bachelor's theses
   
   - position: Research Assistant
-    company_name: Pontificia Universiae Catolica do Rio de Janeiro
+    company_name: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
     company_url: ''
     company_logo: ''
     date_start: 2018-07-01
     date_end: 2019-01-01
     summary: |
-      Boolean Functions and Noise Sensitivity. Undergraduate Research Project supervised by Professor Simon Griffiths. Supported by the National Council for Scientific and Technological Development (CNPQ)
+      - Undergraduate Research Project about Boolean Functions and Noise Sensitivity. Supervised by Professor Simon Griffiths
+      - Supported by the National Council for Scientific and Technological Development (CNPQ)
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Probability
-        description: ''
-        percent: ''
-        icon: chart-bar
-      - name: Stochastic Processes
-        description: ''
+        description: 'Noise Sensitivity, Stochastic Processes, Percolation, and Stochastic Calculus'
         percent: ''
         icon: chart-bar
       - name: Statistics
-        description: ''
+        description: 'Networks and Epidemics'
         percent: ''
         icon: chart-bar
       - name: Data Science
-        description: ''
-        percent: ''
-        icon: chart-bar
-      - name: Python
-        description: ''
+        description: 'NumPy and Pandas'
         percent: ''
         icon: code-bracket
-      - name: LaTeX
-        description: ''
-        percent: ''
-        icon: code-bracket
-      - name: GitHub
-        description: ''
-        percent: ''
-        icon: code-bracket
-      - name: C++
-        description: ''
+      - name: Programming
+        description: 'Python, LaTeX, GitHub, MATLAB, and C++'
         percent: ''
         icon: code-bracket
   - name: Hobbies
@@ -242,7 +228,7 @@ awards:
     awarder: Chinese Bridge
     icon: 
     summary: |
-      Certificate of winning 1st place Mandarin Speaking Contest.
+      Certificate of winning first place in the Mandarin Speaking Contest.
 
   - title: Programming in Python for Data Science
     url: 
@@ -258,7 +244,7 @@ awards:
     awarder: The University of British Columbia (UBC)
     icon: 
     summary: |
-      Award for my translation of the poem 서시 (Prologue) by 윤동주 (Yun Dong-ju)
+      Award for a translation of the poem 서시 (Prologue) by 윤동주 (Yun Dong-ju)
 
   - title: TOEFL iBT
     url: 
@@ -282,7 +268,7 @@ awards:
     awarder: King Abdullah University of Science and Technology (KAUST)
     icon: 
     summary: |
-      Certificate of appreciation for my participation in the Undergraduate Poster Competition
+      Certificate of appreciation for my participation in the Undergraduate Poster Competition at KAUST
   
   - title: South-American Mathematical Olympiad
     url: 
@@ -322,4 +308,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Finance.
+Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Finance.
