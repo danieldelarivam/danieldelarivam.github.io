@@ -203,11 +203,11 @@ languages:
   - name: Spanish
     percent: 70
   - name: French
-    percent: 50
-  - name: Mandarin
     percent: 40
+  - name: Mandarin
+    percent: 30
   - name: Korean
-    perent: 30
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
