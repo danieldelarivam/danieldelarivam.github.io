@@ -9,7 +9,7 @@ event_url: https://personal.math.ubc.ca/~angel/ssprob22/
 location: Vancouver
 
 summary: We consider the study of Noise Sensitivity for First Passage Percolation.
-abstract: {{< math >}}$\gamma${{< math >}} 
+abstract: "The abstract ${O(d\\_{\\max})}$. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
