@@ -45,6 +45,7 @@ interests:
   - Statistics
   - Data Science
   - Machine Learning
+  - Quantitative Finance
 
 education:
   - area: Ph.D. in Probability

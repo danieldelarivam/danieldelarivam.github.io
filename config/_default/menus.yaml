@@ -16,6 +16,6 @@ main:
   - name: Research
     url: projects/
     weight: 30
-  - name: Art
-    url: art/
+  - name: Photography
+    url: https://danieldelarivamassaad.smugmug.com/
     weight: 30

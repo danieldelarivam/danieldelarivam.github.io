@@ -10,7 +10,6 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: papers
     content:
       title: Publications
       text: ""
@@ -22,7 +21,6 @@ sections:
       view: citation
 
   - block: collection
-    id: papers
     content:
       title: Preprints
       text: ""
