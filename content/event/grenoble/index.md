@@ -1,5 +1,5 @@
 ---
-reading_time: true
+reading_time: false
 title: Exclusion Sensitivity and Stability for the Voter Model
 
 
