@@ -136,7 +136,7 @@ work:
     summary: |
       Responsibilities include:
       - Researching
-      - Teaching workshop classes for master's students and bachelor's students
+      - Teaching workshop classes (master's and bachelor's levell)
       - Grading bachelor's thesis
   
   - position: Research Assistant
