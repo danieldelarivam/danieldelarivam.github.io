@@ -53,9 +53,9 @@ education:
     date_end: ''
     summary: |
 
-      Faculty of Science Ph.D. Tuition Award
-      President's Academic Excellence Initiative Ph.D. Award
-      International Tuition Awar
+      - Faculty of Science Ph.D. Tuition Award
+      - President's Academic Excellence Initiative Ph.D. Award
+      - International Tuition Aware
       
       Course included:
       - Stochastic Calculus
@@ -68,9 +68,9 @@ education:
     date_end: 2022-04-30
     summary: |
       
-      Incomplete
+      # Incomplete: Transferred to UBC
 
-      Swedish Research Council Grant
+      - Swedish Research Council Grant
 
       Course included:
       - Brownian Motion
@@ -85,8 +85,9 @@ education:
       
       GPA: 94/100
 
-      Bolsa CAPES
-      Bolsa Aluno Nota 10 (High Performance Grant) FAPERJ
+      - Bolsa CAPES
+
+      - Bolsa Aluno Nota 10 (High Performance Grant) FAPERJ
 
       Courses included:
       - Stochastic Processes
