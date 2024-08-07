@@ -56,7 +56,7 @@ education:
 
       - Faculty of Science Ph.D. Tuition Award
       - President's Academic Excellence Initiative Ph.D. Award
-      - International Tuition Aware
+      - International Tuition Award
       
       Course included:
       - Stochastic Calculus
@@ -96,7 +96,7 @@ education:
       - Logic
       - Measure Theory
 
-      An invitation to Noise Sensitivity. Supervised by [Prof Simon Griffiths](https://www.maxwell.vrac.puc-rio.br/49615/49615.PDF). 
+      An invitation to Noise Sensitivity. Supervised by Professor Simon Griffiths [Prof Simon Griffiths](https://www.maxwell.vrac.puc-rio.br/49615/49615.PDF). 
     button:
       text: 'Read Thesis'
       url: 'https://www.maxwell.vrac.puc-rio.br/49615/49615.PDF'
