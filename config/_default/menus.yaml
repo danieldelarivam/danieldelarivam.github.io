@@ -16,6 +16,6 @@ main:
   - name: Research
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: Art
     url: teaching/
     weight: 30
