@@ -10,14 +10,14 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: papers
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Recent Publications
+      text: ""
       filters:
         folders:
-          - project
+          - publication
+        exclude_featured: false
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      view: citation
 ---
