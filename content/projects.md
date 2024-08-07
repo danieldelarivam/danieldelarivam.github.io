@@ -20,4 +20,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    id: papers
+    content:
+      title: Preprints
+      text: ""
+      filters:
+        folders:
+          - publication/preprint
+        exclude_featured: false
+    design:
+      view: citation  
 ---
