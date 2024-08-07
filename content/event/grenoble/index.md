@@ -1,5 +1,7 @@
 ---
+reading_time: true
 title: Exclusion Sensitivity and Stability for the Voter Model
+
 
 event: Probability seminar
 event_url: https://www-fourier.ujf-grenoble.fr/?q=fr/content/daniel-de-la-riva
@@ -15,8 +17,6 @@ date: '2024-06-25T15:30:00Z'
 date_end: '2024-06-25T16:30:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-reading_time: true
 
 authors:
   - admin
