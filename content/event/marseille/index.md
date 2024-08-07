@@ -13,7 +13,6 @@ summary: We consider examples of Noise Sensitivity theorems that go beyond the t
 date: '2023-08-04T09:00:00Z'
 date_end: '2023-08-04T09:30:00Z'
 all_day: false
-
 reading_time: true
 
 authors:
