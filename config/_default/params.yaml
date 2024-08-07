@@ -60,4 +60,4 @@ features:
     enable: false
 
 # No reading time blog post
-noreadingtime = true
+noreadingtime: true
