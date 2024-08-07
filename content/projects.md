@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research'
+date: 2024-08-06
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
