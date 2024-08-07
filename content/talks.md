@@ -11,7 +11,6 @@ design:
 
 sections:
   - block: collection
-    id: talks
     content:
       title: Talks
       filters:
