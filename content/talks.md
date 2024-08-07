@@ -9,26 +9,13 @@ design:
 
 sections:
   - block: collection
-    id: papers
+    id: talks
     content:
-      title: Publications
-      text: ""
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - event
     design:
-      view: citation
-
-  - block: collection
-    id: papers
-    content:
-      title: Preprints
-      text: ""
-      filters:
-        folders:
-          - preprint
-        exclude_featured: false
-    design:
-      view: citation  
+      view: article-grid
+      columns: 1 
 ---
