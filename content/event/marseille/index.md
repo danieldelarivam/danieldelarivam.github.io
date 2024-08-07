@@ -8,7 +8,7 @@ event_url: https://conferences.cirm-math.fr/2928.html
 
 location: CIRM - Marseille
 
-summary: We consider examples of Noise Sensitivity theorems that go beyond the traditional Boolean setting.
+summary: We consider examples of Noise Sensitivity results that go beyond the traditional Boolean setting.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
