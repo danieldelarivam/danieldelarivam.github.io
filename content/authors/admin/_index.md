@@ -44,6 +44,7 @@ interests:
   - Noise Sensitivity
   - Statistics
   - Data Science
+  - Machine Learning
 
 education:
   - area: Ph.D. in Probability
@@ -51,10 +52,15 @@ education:
     date_start: 2022-09-01
     date_end: ''
     summary: |
+
+      Faculty of Science Ph.D. Tuition Award
+      President's Academic Excellence Initiative Ph.D. Award
+      International Tuition Awar
       
       Course included:
       - Stochastic Calculus
       - Ising and Potts Models
+      - Creative Writing
   
   - area: Ph.D. in Mathematical Statistics
     institution: Stockholm University
@@ -63,6 +69,8 @@ education:
     summary: |
       
       Incomplete
+
+      Swedish Research Council Grant
 
       Course included:
       - Brownian Motion
@@ -74,10 +82,15 @@ education:
     date_start: 2019-01-01
     date_end: 2020-01-31
     summary: |
+      
       GPA: 94/100
+
+      Bolsa CAPES
+      Bolsa Aluno Nota 10 (High Performance Grant) FAPERJ
 
       Courses included:
       - Stochastic Processes
+      - Probabilistic Method
       - Logic
       - Measure Theory
 
@@ -90,6 +103,8 @@ education:
     date_start: 2016-01-01
     date_end: 2018-12-31
     summary: |
+
+      Bolsa Arquimedes
       
       Courses included:
       - Real Analysis
@@ -108,7 +123,7 @@ work:
     summary: |
       Responsibilities include:
       - Researching
-      - Teaching
+      - Teaching workshop classes
       - Grading
   - position: Teaching and Research Assistant
     company_name: Stockholm University
@@ -121,6 +136,15 @@ work:
       - Researching
       - Teaching workshop classes for master's students and bachelor's students
       - Grading bachelor's thesis
+  
+  - position: Research Assistant
+    company_name: Pontificia Universiae Catolica do Rio de Janeiro
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-07-01
+    date_end: 2019-01-01
+    summary: |
+      Boolean Functions and Noise Sensitivity. Undergraduate Research Project supervised by Professor Simon Griffiths. Supported by the National Council for Scientific and Technological Development (CNPQ)
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -128,31 +152,47 @@ skills:
     items:
       - name: Probability
         description: ''
-        percent: 100
-        icon: code-bracket
+        percent: ''
+        icon: chart-bar
+      - name: Stochastic Processes
+        description: ''
+        percent: ''
+        icon: chart-bar
+      - name: Statistics
+        description: ''
+        percent: ''
+        icon: chart-bar
       - name: Data Science
         description: ''
-        percent: 40
+        percent: ''
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: ''
+        icon: code-bracket
+      - name: LaTeX
+        description: ''
+        percent: ''
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: ''
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Photography
-        description: ''
-        percent: 100
+        description: Film Photography and Printing
+        percent: ''
         icon: camera
       - name: Piano
-        description: ''
-        percent: 100
+        description: Playing and Listening
+        percent: ''
         icon: musical-note
       - name: Poetry
         description: Writing and Reading
-        percent: 100
+        percent: ''
         icon: pencil-square
 
 languages:
@@ -201,13 +241,79 @@ awards:
   - title: Programming in Python for Data Science
     url: 
     date: '2024-04-02'
-    awarder: UBC
+    awarder: The University of British Columbia (UBC)
     icon: 
     summary: |
       An introduction to important tools in Data Science such as NumPy and Pandas.
+
+  - title: Multilingual Poetry Slam Contest
+    url: 
+    date: '2022-11-04'
+    awarder: The University of British Columbia (UBC)
+    icon: 
+    summary: |
+      Award for my translation of the poem 서시 (Prologue) by 윤동주 (Yun Dong-ju)
+
+  - title: TOEFL iBT
+    url: 
+    date: '2022-01-22'
+    awarder: ETS
+    icon: 
+    summary: |
+      English Proficiency Exam 111/120
+  
+  - title: Social Innovation Competition
+    url: 
+    date: '2019-06-06'
+    awarder: ETS
+    icon: 
+    summary: |
+      Certificate of appreciation for a group project about the inclusion of people with physical disabilities and visual impairment
+
+  - title: Undergraduate Poster Competition
+    url: 
+    date: '2018-01-01'
+    awarder: King Abdullah University of Science and Technology (KAUST)
+    icon: 
+    summary: |
+      Certificate of appreciation for my participation in the Undergraduate Poster Competition
+  
+  - title: South-American Mathematical Olympiad
+    url: 
+    date: '2017-01-20'
+    awarder: Competencia Iberoamericana Interuniversitaria de Matematicas (CIIM)
+    icon: 
+    summary: |
+      Honorable Mention 
+    
+  - title: South-American Mathematical Olympiad
+    url: 
+    date: '2016-09-16'
+    awarder: Competencia Iberoamericana Interuniversitaria de Matematicas (CIIM)
+    icon: 
+    summary: |
+      Honorable Mention
+
+  - title: Mathematics Challenge
+    url: 
+    date: '2015-12-01'
+    awarder: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
+    icon: 
+    summary: |
+      Honorable Mention
+  
+  - title: Rio de Janeiro Mathematical Olympiad
+    url: 
+    date: '2014-11-29'
+    awarder: OMERJ
+    icon: 
+    summary: |
+      Honorable Mention 
+  
+  
   
 ---
 
 ## About Me
 
-Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Analysis.
+Daniel de la Riva Massaad am a Ph.D. student in Mathematics currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Finance.
