@@ -5,7 +5,7 @@ share: false
 
 event: <a href="https://personal.math.ubc.ca/~angel/ssprob22/"> 2022 CRM-PIMS Summer School in Probability </a> 
 
-location: Vancouver - BC
+location: The University of British Columbia (UBC)
 
 summary: We consider the study of Noise Sensitivity for First Passage Percolation.
 abstract: "Assign independent weights to the edges of the square lattice, from the uniform distribution on ${\\{a,b\\}}$ for some ${0 &lt; a &lt; b &lt; \\infty}$. The weighted graph induces a random metric on ${\\mathbb{Z}^2}$. Let T<sub>n</sub> denote the distance between ${(0,0)}$ and ${(n,0)}$ in this metric. The distribution of T<sub>n</sub> has a well-defined median. Itai Benjamini asked in 2011 if the sequence of Boolean functions encoding whether T<sub>n</sub> exceeds its median is noise sensitive. In this paper, we present the first progress on Benjamini's problem. More precisely, we study the minimal weight along any path crossing an ${n\\times n}$-square horizontally and whose vertical fluctuation is smaller than ${n^{1/22}}$, and show that for this observable, 'being above the median' is a noise sensitive property."
