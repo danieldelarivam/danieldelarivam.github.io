@@ -1,6 +1,7 @@
 ---
 title: Talks
 cms_exclude: true
+show_date: false
 reading_time: false
 #url: talk
 
