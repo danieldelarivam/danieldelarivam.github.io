@@ -1,5 +1,7 @@
 ---
 title: Noise Sensitivity beyond the Boolean setting
+show_date: false
+share: false
 
 event: Percolation and interactions
 event_url: https://conferences.cirm-math.fr/2928.html
