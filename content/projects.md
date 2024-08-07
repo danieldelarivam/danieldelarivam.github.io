@@ -28,7 +28,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/preprint
+          - preprint
         exclude_featured: false
     design:
       view: citation  
