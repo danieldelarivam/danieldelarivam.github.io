@@ -17,5 +17,5 @@ main:
     url: projects/
     weight: 30
   - name: Art
-    url: teaching/
+    url: art/
     weight: 30
