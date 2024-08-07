@@ -68,7 +68,7 @@ education:
     date_end: 2022-04-30
     summary: |
       
-      ## Transferred to UBC
+      -  ### Transferred to UBC
 
       - Swedish Research Council Grant
 
@@ -178,7 +178,7 @@ skills:
       - name: GitHub
         description: ''
         percent: ''
-        icon: github
+        icon: code-bracket
       - name: C++
         description: ''
         percent: ''
