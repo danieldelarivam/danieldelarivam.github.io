@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-06
 type: landing
 
 design:
@@ -32,25 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        My research focuses on Noise Sensitivity and Percolation related problems
+        My research focuses on Noise Sensitivity and Percolation related problems.
         
-        Please reach out to collaborate 
+        Please reach out to collaborate!
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: talks
     content:
