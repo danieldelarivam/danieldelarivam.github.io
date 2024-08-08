@@ -8,9 +8,9 @@ reading_time: false
 show_date: false
 ---
 
-This is an ongoing project containing the translation of selected poems from Cecília Meireles' book Viagem (Journey). I want to thank Professor Bronwen Tate for her suggestions.
+This is an ongoing project containing the translation of selected poems from Cecília Meireles' book Viagem (Journey). I want to thank Professor Bronwen Tate for her suggestions and help.
 
-Annunciation
+1- Annunciation
 ----------
 
 Play this silk song, loose and trembling,<br />
@@ -57,5 +57,45 @@ Não haverá mais nossa vida, talvez não haja nem o pó que fomos.
 
 E a memória de tudo desmanchará suas dunas desertas,<br />
 e em navios novos homens eternos navegarão. 
+
+*by Cecília Meireles*
+
+2- Portrait
+----------
+
+I didn’t have this face then,<br />
+so calm, and sad, and thin,<br />
+nor these eyes, so empty,<br />
+nor these bitter lips.
+
+I didn’t have these frail hands,<br />
+so still, and cold, and dead;<br />
+I didn’t have this heart<br />
+I cannot bare.
+
+I did not notice this change,<br />
+so simple, so certain, so easy:<br />
+–In which mirror did my face<br />
+remain?
+
+*by Daniel de la Riva Massaad*
+
+Retrato
+-----------
+
+Eu não tinha este rosto de hoje,<br />
+assim calmo, assim triste, assim magro,<br />
+nem estes olhos tão vazios,<br />
+nem o lábio tão amargo.
+
+Eu não tinha estas mãos tão sem força,<br />
+tão paradas e frias e mortas;<br />
+Eu não tinha este coração<br />
+Que nem se mostra.
+
+Eu não dei por esta mudança,<br />
+tão simples, tão certa, tão fácil:<br />
+–Em que espelho ficou retida<br />
+a minha face?
 
 *by Cecília Meireles*
