@@ -1,12 +1,14 @@
 ---
 title: Journey
-summary: Translation of select poems by Cecília Meireles
+summary: Translation of selected poems by Cecília Meireles
 date: 2024-08-07
 authors:
   - admin
 reading_time: false
 show_date: false
 ---
+
+This is an ongoing project containing the translation of selected poems from Cecília Meireles' book Viagem (Journey). I want to thank Professor Bronwen Tate for her suggestions.
 
 Annunciation
 ----------
