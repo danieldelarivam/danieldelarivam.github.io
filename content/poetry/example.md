@@ -1,6 +1,10 @@
-My Poems
-========
-
+---
+title: My poems
+summary:
+date:
+authors:
+  - admin
+---
 First Poem
 ----------
 
