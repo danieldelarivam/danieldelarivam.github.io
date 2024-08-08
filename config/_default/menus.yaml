@@ -19,3 +19,6 @@ main:
   - name: Photography
     url: https://danieldelarivamassaad.smugmug.com/
     weight: 30
+  - name: Poetry
+    url: poetry/
+    weight: 30
