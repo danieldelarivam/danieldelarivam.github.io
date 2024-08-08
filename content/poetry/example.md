@@ -18,8 +18,7 @@ Play this silk song, loose and trembling, \nthat only cradles the night and rock
 <p>From the depths of darkness, golden boats are born </p>
 with the hands of forgotten bodies, almost dismantled in the wind.
 
-And the wind hits the ropes, trembling opaque sails, 
-and the water melts a faint shimmer, soon lost in itself.
+<br>And the wind hits the ropes, trembling opaque sails,</br> and the water melts a faint shimmer, soon lost in itself.
 
 Play this silk song between sand, clouds, and foam.
 
