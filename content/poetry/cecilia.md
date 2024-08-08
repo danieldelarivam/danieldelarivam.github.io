@@ -10,7 +10,7 @@ show_date: false
 
 This is an ongoing project containing the translation of selected poems from Cecília Meireles' book Viagem (Journey). I want to thank Professor Bronwen Tate for her suggestions and help.
 
-1. Annunciation
+1- Annunciation
 ----------
 
 Play this silk song, loose and trembling,<br />
