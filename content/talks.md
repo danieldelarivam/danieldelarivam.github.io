@@ -15,7 +15,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       view: card
 ---
