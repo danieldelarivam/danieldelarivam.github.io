@@ -22,13 +22,13 @@ with the hands of forgotten bodies, almost dismantled in the wind.
 
 Play this silk song between sand, clouds, and foam.
 
-The paddles will stop between the waves amidst floating fish,
+The paddles will stop between the waves amidst floating fish,<br />
 and broken ropes will fly, dancing in the air adrift.
 
-This song of shadow, which only shows values of air, will cease. 
+This song of shadow, which only shows values of air, will cease.{space}{space}
 Our life will not be, perhaps not even the dust we were.
 
-And the memories will dissolve their deserted dunes, 
+And the memories will dissolve their deserted dunes,\ 
 and in new boats, eternal men will sail.
 
 *by Daniel de la Riva Massaad*
