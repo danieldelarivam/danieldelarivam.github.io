@@ -13,10 +13,9 @@ This is an ongoing project containing the translation of selected poems from Cec
 Annunciation
 ----------
 
-Play this silk song, loose and trembling, \n
-that only cradles the night and rocks stars in another sea.
+Play this silk song, loose and trembling, \nthat only cradles the night and rocks stars in another sea.
 
-From the depths of darkness, golden boats are born 
+<p>From the depths of darkness, golden boats are born </p>
 with the hands of forgotten bodies, almost dismantled in the wind.
 
 And the wind hits the ropes, trembling opaque sails, 
