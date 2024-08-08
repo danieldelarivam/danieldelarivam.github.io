@@ -12,7 +12,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Talks
+      title: Poetry
       filters:
         folders:
           - poetry
