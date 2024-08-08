@@ -1,9 +1,11 @@
 ---
 title: My poems
-summary:
-date:
+summary: Translation
+date: 2024-08-07
 authors:
   - admin
+reading_time: false
+show_date: false
 ---
 First Poem
 ----------
