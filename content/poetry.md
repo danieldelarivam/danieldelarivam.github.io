@@ -1,5 +1,5 @@
 ---
-title: 'Talks'
+title: 'Poetry'
 date: 2024-08-06
 type: landing
 reading_time: false
