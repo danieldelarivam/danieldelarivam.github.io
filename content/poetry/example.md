@@ -38,24 +38,24 @@ and in new boats, eternal men will sail.
 Anunciação
 -----------
 
-Toca essa música de seda, frouxa e trêmula,
+Toca essa música de seda, frouxa e trêmula,<br />
 que apenas embala a noite e balança as estrelas noutro mar.
 
-Do fundo da escuridão nascem vagos navios de ouro,
+Do fundo da escuridão nascem vagos navios de ouro,<br />
 com as mãos de esquecidos corpos quase desmanchados no vento.
 
-E o vento bate nas cordas, e estremecem as velas opacas,
+E o vento bate nas cordas, e estremecem as velas opacas,<br />
 e a água derrete um brilho fino, que em si mesmo se perde.
 
 Toca essa música de seda, entre areias e nuvens e espumas. 
 
-Os remos pararão no meio da onda, entre os peixes suspensos;
+Os remos pararão no meio da onda, entre os peixes suspensos;<br />
 e as cordas partidas andarão pelos ares dançando à-toa.
 
-Cessará essa música de sombra, que apenas indica valores de ar.
+Cessará essa música de sombra, que apenas indica valores de ar.<br />
 Não haverá mais nossa vida, talvez não haja nem o pó que fomos. 
 
-E a memória de tudo desmanchará suas dunas desertas, 
+E a memória de tudo desmanchará suas dunas desertas,<br />
 e em navios novos homens eternos navegarão. 
 
 *by Cecília Meireles*
