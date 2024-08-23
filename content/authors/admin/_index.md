@@ -77,6 +77,7 @@ education:
       - Brownian Motion
       - Networks and Epidemics
       - Markov chains
+      - Statistics
    
   - area: M.Sc. in Mathematics
     institution: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
@@ -138,7 +139,7 @@ work:
       Responsibilities include:
       - Researching topics related to Noise Sensitivity and Percolation
       - Teaching workshop classes (including master's level classes)
-      - Evaluating bachelor's theses
+      - Evaluating bachelor's theses related to Mathematical Statistics
   
   - position: Research Assistant
     company_name: Pontificia Universidade Catolica do Rio de Janeiro (PUC-RIO)
@@ -167,7 +168,7 @@ skills:
         percent: ''
         icon: code-bracket
       - name: Programming
-        description: 'Python, LaTeX, GitHub, MATLAB, and C++'
+        description: 'Python, LaTeX, GitHub, Excel, MATLAB, and C++'
         percent: ''
         icon: code-bracket
   - name: Hobbies
@@ -308,4 +309,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Data Science and Quantitative Finance.
+Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Statistics, Data Science and Quantitative Finance.
