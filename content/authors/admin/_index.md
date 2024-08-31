@@ -207,6 +207,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Data Science Toolbox
+    url: 
+    date: '2024-09-02'
+    awarder: The University of British Columbia (UBC)
+    icon: 
+    summary: |
+      An introduction to GitHub and other useful tools for Data Science
+
   - title: IELTS GT
     url: 
     date: '2023-08-03'
