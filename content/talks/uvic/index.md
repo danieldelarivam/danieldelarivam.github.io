@@ -7,7 +7,7 @@ event: UVIC Probability Seminar
 
 location: Victoria, BC
 
-summary: We discuss Exclusion Stability for the Voter Model
+summary: We discuss Exclusion Stability for the Voter Model.
 abstract:  The notions of noise sensitivity and stability were recently
 extended for the voter model, a well-known and studied interactive particle
 system. In this model, vertices of a graph have opinions that are updated
@@ -15,7 +15,7 @@ by uniformly selecting edges. We further extend stability
 results to a different class of perturbations when the nearest neighbor
 exclusion process is performed in the collection of edge selections. Under
 a rate depending on the underlying graph, we prove that the consensus
-opinion of the voter model is “exclusion stable” when the dynamics above
+opinion of the voter model is exclusion stable when the dynamics above
 run for a short amount of time. This is done by analyzing the expected size
 of the pivotal set.
 
