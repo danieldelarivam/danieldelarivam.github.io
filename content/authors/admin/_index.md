@@ -213,7 +213,7 @@ awards:
     awarder: The University of British Columbia (UBC)
     icon: 
     summary: |
-      Upon the completion of three courses of the Key Capabilities in Data Science program I was awarded a certificate.  
+      Upon the completion of three courses in the Key Capabilities in Data Science program, I was awarded a certificate  
 
   - title: Introduction do Machine Learning
     url: 
