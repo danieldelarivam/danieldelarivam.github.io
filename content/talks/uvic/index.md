@@ -4,6 +4,7 @@ show_date: false
 share: false
 
 event: UVIC Probability Seminar
+event_url: https://www2.cms.math.ca/Events/winter24/sessions_scientific#dp
 
 location: Victoria, BC
 
@@ -21,8 +22,8 @@ of the pivotal set.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-22T15:00:00Z'
-date_end: '2024-10-22T16:00:00Z'
+date: '2024-10-22T16:00:00Z'
+date_end: '2024-10-22T16:30:00Z'
 all_day: false
 reading_time: false
 
