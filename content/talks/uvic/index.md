@@ -4,7 +4,6 @@ show_date: false
 share: false
 
 event: UVIC Probability Seminar
-event_url: 
 
 location: Victoria, BC
 
