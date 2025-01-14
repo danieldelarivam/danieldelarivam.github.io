@@ -1,5 +1,5 @@
 ---
-title: Voter Model stability with respect to conservative noises
+title: Exclusion Stability for the Voter Model
 show_date: false
 share: false
 
@@ -8,7 +8,7 @@ event: UVIC Probability Seminar
 location: Victoria, BC
 
 summary: We discuss Exclusion Stability for the Voter Model.
-abstract:  The notions of noise sensitivity and stability were recently
+abstract: The notions of noise sensitivity and stability were recently
 extended for the voter model, a well-known and studied interactive particle
 system. In this model, vertices of a graph have opinions that are updated
 by uniformly selecting edges. We further extend stability
@@ -18,7 +18,6 @@ a rate depending on the underlying graph, we prove that the consensus
 opinion of the voter model is exclusion stable when the dynamics above
 run for a short amount of time. This is done by analyzing the expected size
 of the pivotal set.
-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
