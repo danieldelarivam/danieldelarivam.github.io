@@ -4,7 +4,6 @@ show_date: false
 share: false
 
 event: UVIC Probability Seminar
-event_url: https://www2.cms.math.ca/Events/winter24/sessions_scientific#dp
 
 location: Victoria, BC
 
