@@ -164,7 +164,7 @@ skills:
         percent: ''
         icon: chart-bar
       - name: Data Science
-        description: 'NumPy and Pandas'
+        description: 'Machine Learning, PyTorch, NumPy, and Pandas'
         percent: ''
         icon: code-bracket
       - name: Programming
@@ -207,6 +207,22 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Key Capabilities in Data Science Certificate
+    url: 
+    date: '2024-11-12'
+    awarder: The University of British Columbia (UBC)
+    icon: 
+    summary: |
+      Upon the completion of three courses of the Key Capabilities in Data Science program I was awarded a certificate.  
+
+  - title: Introduction do Machine Learning
+    url: 
+    date: '2024-11-12'
+    awarder: The University of British Columbia (UBC)
+    icon: 
+    summary: |
+      An introduction to Machine Learning
+
   - title: Data Science Toolbox
     url: 
     date: '2024-09-02'
