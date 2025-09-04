@@ -13,6 +13,7 @@ sections:
   - block: collection
     content:
       title: Talks
+      count: 0
       filters:
         folders:
           - talks
