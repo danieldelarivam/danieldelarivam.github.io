@@ -3,7 +3,7 @@ title: Is 'being above the median' a noise sensitive property?
 authors:
 - Daniel Ahlberg
 - Daniel de la Riva
-date: '2025+-01-01'
+date: ' '
 publication_types:
 - article-journal
 publication: '*Transactions of the American Mathematical Society*, to appear'
