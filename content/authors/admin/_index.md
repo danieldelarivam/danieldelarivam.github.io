@@ -42,10 +42,9 @@ interests:
   - Probability
   - Percolation
   - Noise Sensitivity
-  - Statistics
+  - Spin Glasses
   - Data Science
   - Machine Learning
-  - Quantitative Finance
 
 education:
   - area: Ph.D. in Probability
@@ -333,4 +332,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Statistics, Data Science and Quantitative Finance.
+Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
