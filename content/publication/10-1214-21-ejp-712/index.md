@@ -17,6 +17,4 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2103.01870
-- name: URL
-  url: https://doi.org/10.1214/21-EJP712
 ---

@@ -11,6 +11,4 @@ doi: 10.1090/tran/9547
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2308.16388
-- name: DOI
-  url: https://doi.org/10.1090/tran/9547
 ---
