@@ -50,17 +50,24 @@ education:
   - area: Ph.D. in Probability
     institution: The University of British Columbia (UBC)
     date_start: 2022-09-01
-    date_end: ''
+    date_end: 2026-07-14
     summary: |
-
+      - GPA: 4.33/4.33
       - Faculty of Science Ph.D. Tuition Award
       - President's Academic Excellence Initiative Ph.D. Award
       - International Tuition Award
       
       Course included:
+      - Topics in percolation (by Prof. Tom Hutchcroft)
+      - Geometric Group Theory
+      - Markov Chains and Mixing Times
       - Stochastic Calculus
-      - Ising and Potts Models
-      - Creative Writing
+      - Lectures on Ising and Potts models
+    
+    button:
+      text: 'Read my Ph.D. thesis'
+      url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0453260'
+      
   
   - area: Ph.D. in Mathematical Statistics
     institution: Stockholm University (SU)
@@ -105,6 +112,7 @@ education:
     date_start: 2016-01-01
     date_end: 2018-12-31
     summary: |
+      - GPA: 85/100
 
       - Bolsa Arquimedes
       
@@ -121,7 +129,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
-    date_end: ''
+    date_end: 2026-07-14
     summary: |
       Responsibilities include:
       - Researching topics related to Noise Sensitivity, Percolation, and Interactive Particle Systems
