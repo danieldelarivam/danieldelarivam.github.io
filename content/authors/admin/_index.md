@@ -338,4 +338,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad has recently concluded his Ph.D. in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
+Daniel de la Riva Massaad has recently completed his Ph.D. in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
