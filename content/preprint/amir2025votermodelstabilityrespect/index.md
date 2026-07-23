@@ -7,10 +7,9 @@ authors:
 - Daniel de la Riva
 date: '2025-01-01'
 publication_types:
-- manuscript
+- article-journal
+publication: '*To appear on Bernoulli*'
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2509.02717
-- name: URL
   url: https://arxiv.org/abs/2509.02717
 ---

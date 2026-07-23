@@ -7,10 +7,9 @@ authors:
 - Yuliang Shi
 date: '2025-01-01'
 publication_types:
-- manuscript
+- article-journal
+publication: '*To appear on PTRF*'
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2512.06640
-- name: URL
   url: https://arxiv.org/abs/2512.06640
 ---
