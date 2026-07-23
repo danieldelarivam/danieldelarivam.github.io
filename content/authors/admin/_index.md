@@ -69,14 +69,12 @@ education:
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0453260'
       
   
-  - area: Ph.D. in Mathematical Statistics
+  - area: Ph.D. in Mathematical Statistics (Transferred to UBC)
     institution: Stockholm University (SU)
     date_start: 2020-09-01
     date_end: 2022-04-30
     summary: |
       
-      -  ### Transferred to UBC
-
       - Swedish Research Council Grant
 
       Course included:
@@ -340,4 +338,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad is a Ph.D. student in Probability currently studying at UBC. His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
+Daniel de la Riva Massaad has recently concluded his Ph.D. in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
