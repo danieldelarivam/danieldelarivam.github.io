@@ -8,7 +8,8 @@ authors:
 date: '2025-01-01'
 publication_types:
 - article-journal
-publication: '*To appear on Bernoulli*'
+publication: '*Bernoulli*'
+doi: 10.3150/26-BEJ1972
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2509.02717

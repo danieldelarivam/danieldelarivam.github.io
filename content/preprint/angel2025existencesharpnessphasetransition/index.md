@@ -8,7 +8,7 @@ authors:
 date: '2025-01-01'
 publication_types:
 - article-journal
-publication: '*To appear on PTRF*'
+publication: '*To appear in PTRF*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2512.06640
