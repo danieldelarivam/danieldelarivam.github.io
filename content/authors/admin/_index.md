@@ -134,6 +134,7 @@ work:
       - Teaching workshop classes 
       - Grading
       - Organizing seminars and reading groups
+      - Co-organized the 2025 PIMS-CRM summer school in probability
   - position: Teaching and Research Assistant
     company_name: Stockholm University
     company_url: ''
