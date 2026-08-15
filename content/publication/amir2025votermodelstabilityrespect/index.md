@@ -5,7 +5,7 @@ authors:
 - Omer Angel
 - Rangel Baldasso
 - Daniel de la Riva
-date: '2025-01-01'
+date: '2026-07-30'
 publication_types:
 - article-journal
 publication: '*Bernoulli*'

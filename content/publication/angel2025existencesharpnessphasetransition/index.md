@@ -5,10 +5,11 @@ authors:
 - Daniel de la Riva
 - Jonathan Hermon
 - Yuliang Shi
-date: '2025-01-01'
+date: '2026-08-14'
 publication_types:
 - article-journal
-publication: '*To appear in PTRF*'
+publication: '*Probability Theory and Related Fields*'
+doi: 10.1007/s00440-026-01517-6 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2512.06640
