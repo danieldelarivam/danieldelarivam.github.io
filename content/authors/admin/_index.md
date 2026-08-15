@@ -47,7 +47,7 @@ interests:
   - Machine Learning
 
 education:
-  - area: Ph.D. in Probability
+  - area: Ph.D. in Mathematics (Probability)
     institution: The University of British Columbia (UBC)
     date_start: 2022-09-01
     date_end: 2026-07-14
@@ -339,4 +339,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad has recently completed his Ph.D. in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
+Daniel de la Riva Massaad has recently completed his PhD in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
