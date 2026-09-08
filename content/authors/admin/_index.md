@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:delariva@math.ubc.ca'
+    url: 'mailto:ddlrm20@bath.ac.uk'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/danieldelarivam
@@ -339,4 +339,4 @@ awards:
 
 ## About Me
 
-Daniel de la Riva Massaad has recently completed his PhD in Probability at UBC under the supervision of Omer Angel. He is starting a postdoctoral position at the University of Bath associated with Christoforos Panagiotis.  His research focuses on Noise Sensitivity and Percolation Theory. He is also interested in Spin Glasses.
+Daniel de la Riva Massaad is a postdoctoral fellow at the University of Bath associated with Dr Christoforos Panagiotis.  His research mainly focuses on Noise Sensitivity and Percolation Theory.
