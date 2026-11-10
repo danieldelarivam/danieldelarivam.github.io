@@ -4,6 +4,7 @@ show_date: false
 share: false
 
 event: University of Bath Probability Seminar
+event_url: https://www.bath.ac.uk/case-studies/probability-seminar-abstracts/#daniel-de-la-riva-massaad
 
 location: University of Bath, UK
 
