@@ -1,5 +1,5 @@
 ---
-title: Existence and sharpness of the phase transition for the Frog Model on transitive graphs
+title: Continuity of the phase transition for long-range Bernoulli percolation with exponential decay on $\mathbb{Z}^{2}$
 authors:
 - Omer Angel
 - Daniel de la Riva
