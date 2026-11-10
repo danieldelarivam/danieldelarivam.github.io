@@ -5,7 +5,7 @@ share: false
 
 event: Oxford Probability Seminar
 
-location: Richmond, BC
+location: University of Oxford, UK
 
 summary: We discuss recent results for long-range percolation on $\mathbb{Z}^{2}$
 abstract: We prove the continuity of the phase transition for long-range Bernoulli percolation on $\mathbb{Z}^{2}$ with connection probabilities that decay at least exponentially fast. This extends an earlier work of Duminil-Copin, Sidoravicius, and Tassion on slabs. Our proof establishes a finite-size criterion that allows us to run a renormalization argument. As a corollary, we obtain supercritical sharpness, in the sense that for every $\beta>\beta_{c}$, there exists a unique macroscopic cluster in large boxes with high probability.
